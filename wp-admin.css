@@ -1,0 +1,14 @@
+#wpadminbar {
+	background-color: #FFF;
+	-webkit-box-shadow: 0px 1px 1px 0px rgba(50, 50, 50, 0.2);
+	-moz-box-shadow: 0px 1px 1px 0px rgba(50, 50, 50, 0.2);
+	box-shadow: 0px 1px 1px 0px rgba(50, 50, 50, 0.2);
+}
+
+#wpadminbar a.ab-item, #wpadminbar>#wp-toolbar span.ab-label, #wpadminbar>#wp-toolbar span.noticon {
+	color: #666;
+}
+
+#wpadminbar .ab-icon, #wpadminbar .ab-icon::before, #wpadminbar .ab-item::after, #wpadminbar .ab-item::before {
+	color: #999;
+}
